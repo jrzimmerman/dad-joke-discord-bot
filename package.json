@@ -1,0 +1,15 @@
+{
+  "name": "dad-joke-discord-bot",
+  "version": "0.0.1",
+  "description": "A discord bot to spread the joy of dad jokes from icanhazdadjoke.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Justin Zimmerman <justin.richard.zimmerman@gmail.com> (https://justinzimmerman.net/)",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "node-fetch": "^2.6.1"
+  }
+}
