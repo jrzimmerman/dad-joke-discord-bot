@@ -4,7 +4,8 @@
   "description": "A discord bot to spread the joy of dad jokes from icanhazdadjoke.com",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "author": "Justin Zimmerman <justin.richard.zimmerman@gmail.com> (https://justinzimmerman.net/)",
   "license": "MIT",
